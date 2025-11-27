@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23789802036",
+    "project_id": "applogin-ceb51",
+    "storage_bucket": "applogin-ceb51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23789802036:android:edab261b78db9152bbb061",
+        "android_client_info": {
+          "package_name": "br.com.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHXsJhLGyTrB77_FcjLcqRnf9k3bymTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
